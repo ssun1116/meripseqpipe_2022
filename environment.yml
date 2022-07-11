@@ -18,7 +18,7 @@ dependencies:
   - hisat2=2.1.0
   - bowtie2=2.2.5
   - bwa=0.7.17
-  - star=2.7.4a
+  - star=2.7.10a_alpha_220601
   - tophat=2.1.1
   - samtools=1.9
   - rseqc=2.6.4
