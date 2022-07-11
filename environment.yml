@@ -10,7 +10,7 @@ dependencies:
   - python=2.7.15
   - picard=2.21.6
   - fastqc=0.11.8
-  - Fastp=0.19.7
+  - fastp=0.19.7
   - bedtools=2.27.1
   - ucsc-gtftogenepred=377
   - ucsc-fatotwobit=377
