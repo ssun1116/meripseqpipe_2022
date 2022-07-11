@@ -596,7 +596,7 @@ process MakerRNAindex {
                                 Step 1. QC------Fastp & FastQC
 ========================================================================================
 */ 
-process Fastp{
+process fastp{
     label 'fastp'
     tag "$sample_name"
     //errorStrategy 'ignore'
