@@ -7,7 +7,8 @@ args <- commandArgs(T)
 designfile <- args[1]#"formatted_designfile.txt"
 comparefile <- args[2]#"compare_info"
 diffm6A_mode <- args[3]#"QNB"
-rnaseq_mode <- args[4]#"DESeq2"
+#rnaseq_mode <- args[4]#"DESeq2"
+rnaseq_mode <- "none"
 peakMerged_mode <- args[5]
 options(stringsAsFactors = F)
 
